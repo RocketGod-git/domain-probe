@@ -1,3 +1,14 @@
+# __________                  __             __     ________             .___ 
+# \______   \  ____    ____  |  | __  ____ _/  |_  /  _____/   ____    __| _/ 
+#  |       _/ /  _ \ _/ ___\ |  |/ /_/ __ \\   __\/   \  ___  /  _ \  / __ |  
+#  |    |   \(  <_> )\  \___ |    < \  ___/ |  |  \    \_\  \(  <_> )/ /_/ |  
+#  |____|_  / \____/  \___  >|__|_ \ \___  >|__|   \______  / \____/ \____ |  
+#         \/              \/      \/     \/               \/              \/  
+#
+# Domain prober by RocketGod - check the repo for instructions
+# https://github.com/RocketGod-git/domain-probe
+
+
 import sys
 import importlib
 import socket
